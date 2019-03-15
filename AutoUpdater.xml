@@ -1,10 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>1.6.3.0</version>
-<<<<<<< HEAD
+  <version>1.6.5.0</version>
   <url>http://raw.githubusercontent.com/mbruned/UpdateAgentBeta/master/AgentInstaller-Beta-1.6.5.msi</url>
-=======
-  <url>http://raw.githubusercontent.com/mbruned/UpdateAgentBeta/master/AgentInstaller.msi</url>
->>>>>>> 51167262d0bb9f8f7299e0fec6d29f252650c221
   <mandatory>true</mandatory>
 </item>
